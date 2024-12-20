@@ -1,0 +1,19 @@
+
+
+.custom-tooltip {
+  background-color: #fff;
+  border: 1px solid #f0f2f6;
+  padding: 10px;
+  border-radius: 5px;
+
+  .label {
+    font-weight: 600;
+    color: #364458;
+    font-size: 14px;
+  }
+
+  .intro {
+    font-size: 14px;
+    color: #6e7a8a;
+  }
+}

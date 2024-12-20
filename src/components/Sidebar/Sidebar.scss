@@ -1,0 +1,56 @@
+.sidebar {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 25px rgba(134, 169, 196, 0.1);
+  padding: 20px 0;
+  width: 370px;
+  margin-right: 24px;
+
+  .product {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    img {
+      width: 180px;
+    }
+
+    h2 {
+      margin-top: 22px;
+      margin-bottom: 5px;
+      font-weight: 600;
+      font-size: 20px;
+      color: #364458;
+    }
+
+    p {
+      color: #b0bbca;
+      font-size: 14px;
+      width: 250px;
+      margin-bottom: 12px;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 6px 24px;
+      gap: 8px;
+
+      span {
+        color: #364458;
+        font-size: 14px;
+        padding: 4px 22px;
+        border: 1px solid #e5e8ed;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: .15s ease;
+
+        &:hover {
+          background-color: #f7f9fc;
+        }
+      }
+    }
+  }
+}

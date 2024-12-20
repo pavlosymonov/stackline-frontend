@@ -6,7 +6,7 @@ This repository contains the solution for a web developer assessment. The task i
 ## Getting Started
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone git@github.com:pavlosymonov/stackline-frontend.git
     ```
 2. Install dependencies:
     ```sh
