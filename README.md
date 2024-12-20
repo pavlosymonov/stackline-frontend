@@ -1,4 +1,4 @@
-# Product Web Page Assessment
+# Stackline Web Page Assessment
 
 ## Overview
 This repository contains the solution for a web developer assessment. The task is to create a simple product web page using React for the view and Redux for state management.
